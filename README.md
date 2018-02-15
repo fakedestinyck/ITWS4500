@@ -1,2 +1,3 @@
 # ITWS4500
-Web Science System Development
+- Course name: Web Science System Development
+- Name: Haochang Qian
